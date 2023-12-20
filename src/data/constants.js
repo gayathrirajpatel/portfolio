@@ -184,10 +184,10 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    // img: "/workspaces/codespaces-react/src/logo1.png",
     role: "Fullstack Engineering Intern",
     company: "Shoptaki",
-    date: "Sept 2023 - Present",
+    date: "September 2023 - December 2023",
     desc: "Developed full-stack application using React on front-end & Node.js & ArangoDB in back-end to ensure user-friendly dig exp",
     skills: [
       "React",
@@ -198,26 +198,25 @@ export const experiences = [
       "JavaScript",
  
     ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
-  // {
-  //   id: 0,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-  //   role: "Frontend Engineer Intern",
-  //   company: "Neurobit",
-  //   date: "June 2023 - Present",
-  //   desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-  //   skills: [
-  //     "ReactJS",
-  //     "Redux",
-  //     "NodeJs",
-  //     "Material UI",
-  //     "HTML",
-  //     "CSS",
-  //     "JavaScript",
-  //   ],
-  //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
-  // },
+  {
+    id: 0,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    role: "Web Application Pentesting Intern",
+    company: "Indian Servers",
+    date: "August 2020 - October 2020",
+    desc: "Performed Web Application Penetration Testing on simulated websites to meticulously unveil security vulnerabilities, bolstering cyber-defense & fortifying digital assets.",
+    skills: [
+      "SQL Injection",
+      "Burp Suite",
+      "Acutenix",
+      "Wire Shark",
+      "XML",
+      "NetSparker",
+    ],
+    // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+  },
   // {
   //   id: 1,
   //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
@@ -333,33 +332,33 @@ export const projects = [
     github: "https://drive.google.com/file/d/1yjFNbigqCk4bWBYVBOcDfbujBR5F7rXr/view?usp=sharing",
     webapp: "https://www.figma.com/proto/WtoP4DTVvtmXfdBCaJ9kQy/Milestone-5?type=design&node-id=143-140&t=a7lyBPrQOxOpSn2R-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=143%3A140&mode=design",
   }];
-//   {
-//     id: 0,
-//     title: "Podstream",
-//     date: "Apr 2023 - May 2023",
-//     description:
-//       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-//     image:
-//       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-//     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-//     category: "web app",
-//     github: "https://github.com/rishavchanda/Podstream",
-//     webapp: "https://podstream.netlify.app/",
-//     member: [
-//       {
-//         name: "Rishav Chanda",
-//         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-//         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-//         github: "https://github.com/rishavchanda/",
-//       },
-//       {
-//         name: "Upasana Chaudhuri",
-//         img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-//         linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-//         github: "https://github.com/upasana0710",
-//       },
-//     ],
-//   },
+  // {
+  //   id: 0,
+  //   title: "QR Yummy",
+  //   date: "September 2022 - May 2023",
+  //   description:
+  //     "●	Led team of six in development of pioneering restaurant application aimed at revolutionizing dining experience by enabling seamless QR code scanning, order placement, & secure payment processing.",
+    // image:
+    //   "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+    // tags: ["HTML", "CSS", "Javascript", "Jira", "Jenkins" , "AWS" , "Qtest" , "Python"],
+    // category: "web app",
+    // github: "https://github.com/gayathrirajpatel/qryummylive",
+    // webapp: "https://github.com/gayathrirajpatel/qryummylive",
+    // member: [
+    //   {
+        // name: "Gayathri Raj",
+        // img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+      //   linkedin: "https://www.linkedin.com/in/gayathri-raj-0821611b1/",
+      //   github: "https://github.com/gayathrirajpatel",
+      // },
+      // {
+      //   name: "Upasana Chaudhuri",
+      //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+      //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+      //   github: "https://github.com/upasana0710",
+      // },
+  //   ],
+  // }];
 //   {
 //     id: 1,
 //     title: "Vexa",
