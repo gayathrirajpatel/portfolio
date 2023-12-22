@@ -10,7 +10,7 @@ export const Bio = {
     "Dreamer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    " I am a dedicated individual who thrives on hands-on projects and enjoy pushing my limits to tackle new challenges. I am interested in roles that leverage my expertise in full-stack development, specializing in Node.js and software engineering, while allowing me to explore my passion for AI and ML.",
   github: "https://github.com/gayathrirajpatel",
   resume:
     "https://drive.google.com/file/d/1Hr6YPR1p8OQGLe1_wvOlAJuvZhj892Ox/view?usp=sharing",
